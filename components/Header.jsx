@@ -8,7 +8,7 @@ export default function Header() {
           href="/"
           className="btn btn-ghost text-xl"
         >
-          CoverAI
+          AI
         </Link>
       </div>
       <div className="flex-none">

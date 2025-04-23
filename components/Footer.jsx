@@ -5,7 +5,7 @@ export default function Footer() {
         No Copyrights &copy; Everything free and open source on{" "}
         <a
           className="text-blue-400 underline"
-          href="https://github.com/shantanuuchak/lumeo"
+          href="https://github.com/Vipullprajapati/ai"
         >
           GitHub
         </a>
