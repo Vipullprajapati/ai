@@ -8,7 +8,6 @@ export default function RegisterForm() {
   console.log(formState);
 
   return (
-    
     <form
       action={formAction}
       method="POST"
