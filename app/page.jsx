@@ -1,5 +1,5 @@
 import RegisterForm from "@/components/RegisterForm";
-import { getUserFromCookies } from "@/lib/getUser.ts";
+import { getUserFromCookies } from "@/lib/getUser";
 import Dashboard from "@/components/Dashboard";
 
 export default async function Page() {
